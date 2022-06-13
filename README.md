@@ -3,18 +3,20 @@ The purpose of this election audit analysis was to determine how many candidates
 ## Election-Audit Results
 
 ![Election Results](https://user-images.githubusercontent.com/105513491/173436012-6fa3b0f1-cf09-42e2-8e4f-3dcbf6da4e9e.png)
-THe above picture of the Election Results text file shows the total number of votes cast in this election was 369,711. 
+The above picture of the Election Results text file shows the total number of votes cast in this election was 369,711. 
 
 The candidates were:
 - Charles Casper Stockhom
 - Diana DeGette
 - Raymon Anthony Doane
+
 Diana received the largest percentage of votes. She was elected with 73.8% of the votes which is 272,892 of the total votes. Charles Casper Stockham came in second with 23% of the vote and Raymon Anthony Doane received 3.1% of the vote putting him in third place.
 
 The counties the voters lived in were:
 - Arapahoe
 - Denver
 - Jefferson
+
 Arapahoe county voters represented the fewest percentage of voters. Arapahoe produced 6.7% of the total vote. Jefferson county voters represented 10.5% of the total vote which meant Denver had the largest turnout of voters in the election. Denver represented 82.8% of the voters.
 
 ### Election-Audit Summary
